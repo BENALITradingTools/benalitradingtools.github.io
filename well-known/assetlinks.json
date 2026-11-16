@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "BENTRADE.Daftari",
+        "sha256_cert_fingerprints": ["95:7A:30:9B:B0:AE:56:2F:3B:9A:60:E8:D6:0D:8E:EC:46:7A:9F:37:CA:53:E7:28:35:3D:52:2E:21:E3:2A:1B"]
+      }
+    }]
